@@ -1,0 +1,3 @@
+for(Flight f:flights){
+    System.out.println(flight);
+}
